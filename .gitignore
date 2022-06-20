@@ -1,5 +1,6 @@
 *.dat
 __pycache__
 *.pickle
+*.pkl
 *.pyc
 *.pyo
